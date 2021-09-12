@@ -20,7 +20,7 @@
 
 ***
 
-### Day 3: September 13, 2021
+### Day 3: September 12, 2021
 
 **Today's Progress**: Finish front-end design & page content in Full Stack Application. Build reposive design.
 
