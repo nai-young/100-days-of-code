@@ -17,3 +17,13 @@
 **Thoughts:**
 
 **Link to work:** [Analog Clock](https://codesandbox.io/embed/day-2-javascript30-challenge-5sftm?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=previewm)
+
+***
+
+### Day 3: September 13, 2021
+
+**Today's Progress**: Finish front-end design & page content in Full Stack Application. Build reposive design.
+
+**Thoughts:** Future features (User auth, sidebar design, month calendar view, add time tracker)
+
+**Link to work:** [Productivity App](https://productivity-track-in.herokuapp.com/)
