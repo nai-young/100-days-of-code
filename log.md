@@ -27,3 +27,16 @@
 **Thoughts:** Future features (User auth, sidebar design, month calendar view, add time tracker)
 
 **Link to work:** [Productivity App](https://productivity-track-in.herokuapp.com/)
+
+***
+
+### Day 4: September 13, 2021
+
+**Today's Progress**: Build project details section of my portfolio. JavaScript & CSS variables exercise. 8 JavaScript exercises
+
+**Thoughts:** 
+
+**Link to work:** 
+
+- [CSS Variables](https://codesandbox.io/embed/day-3-javascript30-challenge-uh5tz?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
+- [JS Exercises](https://codesandbox.io/embed/day-4-javascript30-challenge-9yk81?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
