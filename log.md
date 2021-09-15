@@ -50,3 +50,13 @@
 **Thoughts:** 
 
 **Link to work:** [Flex Gallery](https://codesandbox.io/embed/day-5-javascript30-challenge-g70ly?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview)
+
+***
+
+### Day 6: September 15, 2021
+
+**Today's Progress**: Continue developing Users MERN project. Applied JWT auth token and routes. Build React front-end and connect back-end public and private routes
+
+**Thoughts:** Future features finish React & Bootstrap front-end. Create and list users posts with comments.
+
+**Link to work:**
