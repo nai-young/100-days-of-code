@@ -60,3 +60,24 @@
 **Thoughts:** Future features finish React & Bootstrap front-end. Create and list users posts with comments.
 
 **Link to work:**
+
+***
+
+
+### Day 7: September 16, 2021
+
+**Today's Progress**: Added user posts components (add new post, post template), edit user profile information, added profile update routes and authorized routes.
+
+**Thoughts:** Future features: edit and remove post, get profile info, 
+
+**Link to work:** Not deployed yet.
+
+***
+
+### Day 8: September 17, 2021
+
+**Today's Progress**: Get profile and post by id (authorized routes), like a post (add user id to likes array and display array.length)
+
+**Thoughts:** Future features: edit and remove post, dislike post, add and remove comments from posts, link register user and create profile routes.
+
+**Link to work:** Not deployed yet.
