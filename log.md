@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September 10, 2021
+### Day 1
 
 **Today's Progress**: Capture keyboard keycodes & events. Applied CSS responsive design,
 
@@ -10,7 +10,7 @@
 
 ***
 
-### Day 2: September 11, 2021
+### Day 2
 
 **Today's Progress**: Get days, month, time, etc... in JavaScript and CSS transformations & design
 
@@ -20,7 +20,7 @@
 
 ***
 
-### Day 3: September 12, 2021
+### Day 3
 
 **Today's Progress**: Finish front-end design & page content in Full Stack Application. Build reposive design.
 
@@ -30,7 +30,7 @@
 
 ***
 
-### Day 4: September 13, 2021
+### Day 4
 
 **Today's Progress**: Build project details section of my portfolio. JavaScript & CSS variables exercise. 8 JavaScript exercises
 
@@ -43,7 +43,7 @@
 
 ***
 
-### Day 5: September 14, 2021
+### Day 5
 
 **Today's Progress**: JavaScript study & exercises. Apply flexbox in JavaScript.
 
@@ -53,7 +53,7 @@
 
 ***
 
-### Day 6: September 15, 2021
+### Day 6
 
 **Today's Progress**: Continue developing Users MERN project. Applied JWT auth token and routes. Build React front-end and connect back-end public and private routes
 
@@ -64,7 +64,7 @@
 ***
 
 
-### Day 7: September 16, 2021
+### Day 7
 
 **Today's Progress**: Added user posts components (add new post, post template), edit user profile information, added profile update routes and authorized routes.
 
@@ -74,7 +74,7 @@
 
 ***
 
-### Day 8: September 17, 2021
+### Day 8
 
 **Today's Progress**: Get profile and post by id (authorized routes), like a post (add user id to likes array and display array.length)
 
